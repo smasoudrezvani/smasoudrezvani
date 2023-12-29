@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://smasoudrezvani.github.io/](https://smasoudrezvani.github.io/)
 
-- ⚡ Fun fact **I watch movies and series from Netflixevery single day.**
+- ⚡ Fun fact **I watch movies and series from Netflix every single day.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
