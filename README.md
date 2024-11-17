@@ -1,19 +1,14 @@
 # 💫About Me :
 🔭 I’m currently working on [Fraud detection team](at Snapp!.)
 
-🌱 I’m currently learning econometrics: methods and applications coursera from Erasmus University Rotterdam.
-
 👨‍💻 All of my projects are available at https://smasoudrezvani.github.io/
 
 📝 I regularly write articles on https://smasoudrezvani.github.io/
 
-💬 Ask me about Python and Ml.
-
-📫 How to reach me s.masoudrezvani@gmail.com
+📫 How to reach me s.masoudrezvani[@]gmail.com
 
 📄 Know about my experiences https://smasoudrezvani.github.io/
 
-⚡ Fun fact I watch movies and series from Netflix every single day.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smasoudrezvani) 
