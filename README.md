@@ -3,7 +3,7 @@
 
 👨‍💻 All of my projects are available at https://smasoudrezvani.github.io/
 
-<> 📝 I regularly write articles on https://smasoudrezvani.github.io/
+<!--- 📝 I regularly write articles on https://smasoudrezvani.github.io/ -->
 
 📫 How to reach me s.masoudrezvani[@]gmail.com
 
