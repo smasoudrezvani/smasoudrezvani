@@ -3,7 +3,9 @@
 
 👨‍💻 All of my projects are available at https://smasoudrezvani.github.io/
 
-🌱 i'm currently learning Divide and Conquer, Sorting and Searching, and Randomized Algorithms (part 1 from Algorithms Specialization) by Stanford University in Coursera.
+🌱 I'm currently learning [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer)
+(part 1 from [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) ) by Stanford University in Coursera.
+
 <!--- 📝 I regularly write articles on https://smasoudrezvani.github.io/ -->
 
 📫 How to reach me s.masoudrezvani[@]gmail.com
