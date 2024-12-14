@@ -1,7 +1,7 @@
 # 💫About Me :
 🔭 I’m currently working on [Fraud detection team](at Snapp!.)
 
-👨‍💻 All of my projects are available at https://smasoudrezvani.github.io/
+👨‍💻 All of my projects are available at [https://smasoudrezvani.github.io/](https://github.com/smasoudrezvani?tab=repositories)
 
 🌱 I'm currently learning [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer)
 (part 1 from [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) ) by Stanford University in Coursera.
