@@ -3,8 +3,8 @@
 
 👨‍💻 All of my projects are available at https://github.com/smasoudrezvani?tab=repositories
 
-🌱 I'm currently learning [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer)
-(part 1 from [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) ) by Stanford University in Coursera.
+🌱 I'm currently learning [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures)
+(part 2 from [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) ) by Stanford University in Coursera.
 
 <!--- 📝 I regularly write articles on https://smasoudrezvani.github.io/ -->
 
