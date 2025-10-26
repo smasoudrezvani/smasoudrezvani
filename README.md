@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently working on [Fraud detection team](at Snapp!.)
+🔭 I’m currently Studing at UVA.
 
 👨‍💻 All of my projects are available at https://github.com/smasoudrezvani?tab=repositories
 
