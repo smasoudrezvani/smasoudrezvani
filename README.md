@@ -10,7 +10,7 @@
 
 📫 How to reach me s.masoudrezvani[@]gmail.com
 
-📄 Know about my experiences https://smasoudrezvani.github.io/
+<!---📄 Know about my experiences https://smasoudrezvani.github.io/  -->
 
 
 ## 🌐Socials
