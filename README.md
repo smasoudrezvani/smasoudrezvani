@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently Studing at UVA.
+🔭 I’m currently Studing at UvA.
 
 👨‍💻 All of my projects are available at https://github.com/smasoudrezvani?tab=repositories
 
@@ -10,7 +10,7 @@
 
 📫 How to reach me s.masoudrezvani[@]gmail.com
 
-<!---📄 Know about my experiences https://smasoudrezvani.github.io/  -->
+📄 Know about my experiences https://smasoudrezvani.github.io/
 
 
 ## 🌐Socials
